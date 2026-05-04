@@ -9,7 +9,7 @@ The dashboard enables stakeholders to quickly analyze **revenue trends, top prod
 
 ## Objectives
 
--Analyze overall sales performance
+- Analyze overall sales performance
 -Identify **top products and highest sales amount**
 -Track **sales trends over time based on total orders**
 -Understand **country and category-level performance**
